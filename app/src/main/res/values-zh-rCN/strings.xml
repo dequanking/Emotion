@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">表情</string>
+    <string name="u3299">秘密</string>
+    <string name="u3297">祝贺</string>
+    <string name="u303d">部分交换</string>
+    <string name="u3030">波浪式仪表</string>
+    <string name="u2b55">大环</string>
+    <string name="u2b50">星星</string>
+    <string name="u2b1c">白色大方块</string>
+    <string name="u2b1b">黑色大方块</string>
+    <string name="u2b07">向下的黑色箭头</string>
+    <string name="u2b06">向上的黑色箭头</string>
+    <string name="u2b05">向左的黑色箭头</string>
+    <string name="u2935">右向下拐</string>
+    <string name="u27b0"> 大循环</string>
+    <string name="u2934">右向上拐</string>
+    <string name="u27a1">右向黑色箭头</string>
+    <string name="u2797">加重的除号</string>
+    <string name="u2796">加重的减号</string>
+    <string name="u2795">加重的加号</string>
+    <string name="u2764">加重的黑色心型</string>
+</resources>
